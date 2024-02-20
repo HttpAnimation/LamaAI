@@ -9,3 +9,7 @@ Write a html script that has a button on it and when you click it will change th
 ```
 have it say what color the background is
 ```
+## Enter three
+```
+still change the background
+```
