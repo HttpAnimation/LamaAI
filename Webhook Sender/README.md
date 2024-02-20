@@ -1,0 +1,1 @@
+write a html script that you enter a webhook URL and a message and it will send it 
