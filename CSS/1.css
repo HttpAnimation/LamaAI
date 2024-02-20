@@ -1,0 +1,47 @@
+body {
+    background-color: #1c1c1e; /* Dark gray */
+    color: #ffffff; /* White text */
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+
+  h2 {
+    color: #ffffff; /* White text */
+  }
+
+  label {
+    color: #ffffff; /* White text */
+  }
+
+  input[type="text"],
+  textarea {
+    background-color: #333336; /* Dark gray */
+    color: #ffffff; /* White text */
+    border: 1px solid #47474a; /* Dark gray border */
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    width: 100%;
+  }
+
+  button {
+    background-color: #007aff; /* Apple blue */
+    color: #ffffff; /* White text */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+
+  button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+
+  button:active {
+    background-color: #004999; /* Darker blue on click */
+  }
+
+  button:focus {
+    outline: none;
+  }
