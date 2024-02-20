@@ -7,5 +7,5 @@ Write a html script that has a button on it and when you click it will change th
 ```
 ## Enter two
 ```
-
+have it say what color the background is
 ```
